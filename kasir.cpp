@@ -32,9 +32,6 @@ int main() {
 
     cout << "\n===== STRUK PEMBAYARAN =====" << endl;
     cout << "Nama Pembeli  : " << nama << endl;
-    cout << "Total Belanja : Rp " << total << endl;
-    cout << "Diskon        : " << (diskon * 100) << "%" << endl;
-    cout << "Total Bayar   : Rp " << bayar << endl;
 
     return 0;
 }
